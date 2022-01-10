@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank Anand</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shashank Anand</h1>
 <h3 align="center">A passionate Machine Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankanand13monu&label=Views&color=21f505&style=flat" alt="shashankanand13monu" /> </p>

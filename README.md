@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shashank Anand</h1>
-<h3 align="center">A passionate Machine Learner from India</h3>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px" >  I'm Shashank Anand</h1>
+<h3 align="center">A passionate Developer</h3>
 <p align="right"><img src= "https://github.com/shashankanand13monu/shashankanand13monu/blob/main/code.gif"align="right" width=50%>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankanand13monu&label=Views&color=21f505&style=flat" alt="shashankanand13monu" /> </p>
